@@ -7,7 +7,6 @@
 #include <boost/thread/thread.hpp>
 #include <boost/thread/recursive_mutex.hpp>
 #include <boost/asio.hpp>
-#include <constants.hpp>
 
 #define portNMB 8001
 #define time_rand 4000
