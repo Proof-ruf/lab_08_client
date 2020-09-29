@@ -13,7 +13,7 @@
 const char portAdress[] = "127.0.0.1";
 
 using namespace std;
-using namespace boost::asio
+using namespace boost::asio;
 
 
 io_service service;
